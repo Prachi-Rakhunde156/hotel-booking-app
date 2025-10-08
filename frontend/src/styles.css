@@ -1,0 +1,10 @@
+body { font-family: Arial, Helvetica, sans-serif; background:#f6f8fb; margin:0; padding:20px; }
+.container { max-width:800px; margin:0 auto; }
+h1 { text-align:center; }
+.form { background:white; padding:16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.06); margin-bottom:20px; }
+.form input, .form select { display:block; width:100%; padding:8px; margin:8px 0; box-sizing:border-box; }
+.form button { padding:10px 14px; border:none; border-radius:6px; cursor:pointer; }
+.booking-list .booking-item { background:white; padding:12px; border-radius:8px; margin-bottom:8px; display:flex; justify-content:space-between; align-items:center; }
+.error { color: #b00020; margin-bottom:8px; }
+.dates { color: #555; font-size:0.9rem; }
+.meta { font-size:0.85rem; color:#333 }
